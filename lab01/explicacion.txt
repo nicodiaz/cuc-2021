@@ -1,0 +1,1 @@
+El motivo de obtener diferentes valores de hash es porque el contenido de los archivos difiere, y por lo tanto, el calculo criptografico arroja diferentes resultados
